@@ -59,6 +59,7 @@ import MDI_Upload from 'vue-material-design-icons/Upload.vue'
 import MDI_Warn from 'vue-material-design-icons/Alert.vue'
 import MDI_Web from 'vue-material-design-icons/Web.vue'
 import MDI_TranslateVariant from 'vue-material-design-icons/TranslateVariant.vue'
+import MDI_Plus from 'vue-material-design-icons/Plus.vue'
 
 const DEFAULT_ICON_SIZE = 20
 
@@ -138,3 +139,4 @@ export const Undo = makeIcon(MDI_Undo)
 export const Upload = makeIcon(MDI_Upload)
 export const Warn = makeIcon(MDI_Warn)
 export const Web = makeIcon(MDI_Web)
+export const Plus = makeIcon(MDI_Plus)
